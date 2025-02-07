@@ -1,1 +1,10 @@
-{}
+{
+    "master": {
+        "path": "master/main.png",
+        "title": null,
+        "description": null,
+        "author": "TheLetterP",
+        "fingers": 2,
+        "sections": {}
+    }
+}
