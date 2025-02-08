@@ -1,10 +1,14 @@
 {
     "master": {
-        "path": "master/main.png",
-        "title": null,
-        "description": "3 fingers is only required for a single section in this song; you can replace it with a 2 finger strategy below.",
-        "author": "TheLetterP",
-        "fingers": 3,
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": "3 fingers is only required for a single section in this song; you can replace it with a 2 finger strategy below.",
+                "author": "TheLetterP",
+                "fingers": 3
+            }
+        ],
         "sections": {
             "The Wall": {
                 "start_measure": 45,

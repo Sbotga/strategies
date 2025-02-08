@@ -1,10 +1,14 @@
 {
     "master": {
-        "path": "master/main.png",
-        "title": null,
-        "description": null,
-        "author": "dumbarc",
-        "fingers": 2,
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": null,
+                "author": "dumbarc",
+                "fingers": 2
+            }
+        ],
         "sections": {}
     }
 }

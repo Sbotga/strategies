@@ -1,10 +1,14 @@
 {
     "master": {
-        "path": "master/main.PNG",
-        "title": null,
-        "description": null,
-        "author": "TheLetterP",
-        "fingers": 2,
+        "strats": [
+            {
+                "path": "master/main.PNG",
+                "title": null,
+                "description": null,
+                "author": "TheLetterP",
+                "fingers": 2
+            }
+        ],
         "sections": {}
     }
 }
