@@ -15,11 +15,18 @@
                 "end_measure": 47,
                 "start_combo": 663,
                 "end_combo": 691,
+                "raw": "master/sections/section1_raw.png",
                 "strategies": [
                     {
+                        "path": "master/sections/section1_default.png",
+                        "title": "Default",
+                        "description": null,
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
                         "path": "master/sections/section1.png",
-                        "raw": "master/sections/section1_raw.png",
-                        "title": null,
+                        "title": "2k Jack",
                         "description": null,
                         "author": "TheLetterP",
                         "fingers": 2
@@ -31,11 +38,18 @@
                 "end_measure": 73,
                 "start_combo": 1023,
                 "end_combo": 1040,
+                "raw": "master/sections/section2_raw.png",
                 "strategies": [
                     {
+                        "path": "master/sections/section2_default.png",
+                        "title": "Default",
+                        "description": null,
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
                         "path": "master/sections/section2.png",
-                        "raw": "master/sections/section2_raw.png",
-                        "title": null,
+                        "title": "4k Cheese",
                         "description": null,
                         "author": "TheLetterP",
                         "fingers": 4
