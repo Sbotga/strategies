@@ -14,6 +14,7 @@
                 "strategies": [
                     {
                         "path": "master/sections/section1.png",
+                        "raw": "master/sections/section1_raw.png",
                         "title": null,
                         "description": null,
                         "author": "TheLetterP",
@@ -29,6 +30,7 @@
                 "strategies": [
                     {
                         "path": "master/sections/section2.png",
+                        "raw": "master/sections/section2_raw.png",
                         "title": null,
                         "description": null,
                         "author": "TheLetterP",
