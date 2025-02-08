@@ -20,14 +20,14 @@
                     {
                         "path": "master/sections/section1_default.png",
                         "title": "Default",
-                        "description": null,
+                        "description": "For this strategy you alternate between right and left hand for every note, using your right middle finger where necessary.",
                         "author": "TheLetterP",
                         "fingers": 2
                     },
                     {
                         "path": "master/sections/section1.png",
                         "title": "2k Jack",
-                        "description": null,
+                        "description": "This strategy relies heavily on jacking many notes in a row. Right hand taps the notes on the right side, whilst left hand taps the notes in the middle and to the left. This strategy is also referred to by some as \"The Picture\".",
                         "author": "TheLetterP",
                         "fingers": 2
                     }
@@ -43,14 +43,14 @@
                     {
                         "path": "master/sections/section2_default.png",
                         "title": "Default",
-                        "description": null,
+                        "description": "This strategy hits the holds the intended way, by using two fingers and alternating them whilst swiping inwards.",
                         "author": "TheLetterP",
                         "fingers": 2
                     },
                     {
                         "path": "master/sections/section2.png",
                         "title": "4k Cheese",
-                        "description": null,
+                        "description": "For this strategy you use four fingers to hit the holds, without the need to move them. This strategy is a lot simpler to execute compared to only using two fingers.",
                         "author": "TheLetterP",
                         "fingers": 4
                     }
