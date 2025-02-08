@@ -1,0 +1,41 @@
+{
+    "master": {
+        "path": "master/main.png",
+        "title": null,
+        "description": "3 fingers is only required for a single section in this song; you can replace it with a 2 finger strategy below.",
+        "author": "TheLetterP",
+        "fingers": 3,
+        "sections": {
+            "The Wall": {
+                "start_measure": 45,
+                "end_measure": 47,
+                "start_combo": 663,
+                "end_combo": 691,
+                "strategies": [
+                    {
+                        "path": "master/sections/section1.png",
+                        "title": null,
+                        "description": null,
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Hold Spam": {
+                "start_measure": 73,
+                "end_measure": 73,
+                "start_combo": 1023,
+                "end_combo": 1040,
+                "strategies": [
+                    {
+                        "path": "master/sections/section2.png",
+                        "title": null,
+                        "description": null,
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ]
+            }
+        }
+    }
+}
