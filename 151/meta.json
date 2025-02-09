@@ -1,0 +1,14 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.jpg",
+                "title": null,
+                "description": null,
+                "author": "Senna",
+                "fingers": 2
+            }
+        ],
+        "sections": {}
+    }
+}

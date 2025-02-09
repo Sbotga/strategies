@@ -1,0 +1,14 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": "This is very very stamina heavy.",
+                "author": "fresco",
+                "fingers": 2
+            }
+        ],
+        "sections": {}
+    }
+}
