@@ -9,6 +9,37 @@
                 "fingers": 2
             }
         ],
-        "sections": {}
+        "sections": {
+            },
+            "Ending trill": {
+                "start_measure": 74,
+                "end_measure": 74,
+                "start_combo": 1106,
+                "end_combo": 1119,
+                "raw": "master/sections/section2_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section2_default.png",
+                        "title": "Default",
+                        "description": "For this strategy you hit the pattern in a balanced way.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_1.png",
+                        "title": "Right Hand Focus",
+                        "description": "For this strategy you exclusively use your right hand for the jacks.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_2.png",
+                        "title": "4k",
+                        "description": "For this strategy you utilize 4k.",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ]
+            }
+        }
     }
-}
