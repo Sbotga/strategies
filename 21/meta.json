@@ -11,6 +11,28 @@
         ],
         "sections": {
             },
+            "X Holds": {
+                "start_measure": 5,
+                "end_measure": 5,
+                "start_combo": 85,
+                "end_combo": 113,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_default.png",
+                        "title": "Default",
+                        "description": "For this strategy you hit the holds by quickly moving your fingers.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "4k Cheese",
+                        "description": "For this strategy you use 4 fingers to hit the holds, utilizing the leniency holds have. If it's inconsistent, you can add more fingers.",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ],
             "Ending trill": {
                 "start_measure": 74,
                 "end_measure": 74,
