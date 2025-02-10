@@ -2,7 +2,7 @@
     "append": {
         "strats": [
             {
-                "path": "append/main.png",
+                "path": "append/main.PNG",
                 "title": null,
                 "description": null,
                 "author": "Ghost",
