@@ -26,14 +26,14 @@
                     },
                     {
                         "path": "master/sections/section1_1.png",
-                        "title": "4k Cheese",
+                        "title": "Multifinger Cheese",
                         "description": "For this strategy you use 4 fingers to hit the holds, utilizing the leniency holds have. If it's inconsistent, you can add more fingers.",
                         "author": "TheLetterP",
                         "fingers": 4
                     }
                 ]
             },
-            "Ending trill": {
+            "Ending Trill": {
                 "start_measure": 74,
                 "end_measure": 74,
                 "start_combo": 1106,
@@ -56,7 +56,7 @@
                     },
                     {
                         "path": "master/sections/section2_2.png",
-                        "title": "4k",
+                        "title": "Multifinger",
                         "description": "For this strategy you utilize 4k.",
                         "author": "TheLetterP",
                         "fingers": 4
