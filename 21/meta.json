@@ -10,7 +10,6 @@
             }
         ],
         "sections": {
-            },
             "X Holds": {
                 "start_measure": 5,
                 "end_measure": 5,
@@ -66,3 +65,4 @@
             }
         }
     }
+}
