@@ -1,0 +1,151 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.PNG",
+                "title": null,
+                "description": null,
+                "author": "TheLetterP",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+            "Intro Wide Notes": {
+                "start_measure": [10,18],
+                "end_measure": [11,19],
+                "start_combo": [155,271],
+                "end_combo": [169,285],
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Default",
+                        "description": "For this strategy you tap the notes with a right hand focus.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Simultaneous Taps Cheese",
+                        "description": "For this strategy you tap simultaneously with both hands for every beat, making it simpler to execute. The additional inputs on the wide notes do not get registered.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Square Zig-zag Holds": {
+                "start_measure": [24,32],
+                "end_measure": [26,34],
+                "start_combo": [350,473],
+                "end_combo": [392,515],
+                "raw": "master/sections/section2_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section2_1.png",
+                        "title": "Default",
+                        "description": "For this strategy you hit the holds the intended way.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_2.png",
+                        "title": "Multifinger Cheese",
+                        "description": "For this strategy you 3 fingers to hit the holds, removing the need to move your fingers.",
+                        "author": "TheLetterP",
+                        "fingers": 6
+                    },
+                    {
+                        "path": "master/sections/section2_3.png",
+                        "title": "One-Finger Cheese",
+                        "description": "For this strategy you don't move your finger after tapping the hold initally. If the finger stays the same place, the hold should count.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "1st Chorus Trill": {
+                "start_measure": 47,
+                "end_measure": 48,
+                "start_combo": 683,
+                "end_combo": 706,
+                "raw": "master/sections/section3_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section3_1.png",
+                        "title": "Jack",
+                        "description": "For this strategy you hit the trill the normal way, jacking where necessary.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section3_2.png",
+                        "title": "Multifinger",
+                        "description": "For this strategy you use 4k.",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ]
+            },
+            "Stairs": {
+                "start_measure": 65,
+                "end_measure": 71,
+                "start_combo": 904,
+                "end_combo": 1022,
+                "raw": "master/sections/section5_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section5_1.png",
+                        "title": "Jack",
+                        "description": "For this strategy you hit the pattern 2k, jacking where necessary.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section5_2.png",
+                        "title": "Multifinger",
+                        "description": "For this strategy you use 4k.",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ]
+            },
+            "Trill With Wide Notes": {
+                "start_measure": 87,
+                "end_measure": 88,
+                "start_combo": 1186,
+                "end_combo": 1209,
+                "raw": "master/sections/section6_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section6_1.png",
+                        "title": "Jack",
+                        "description": "For this strategy you jack into every wide note. This strategy is identical to the mirrored version of the 2k strategy for \"1st Chorus Trill\".",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section6_2.png",
+                        "title": "Crosshand",
+                        "description": "For this strategy you cross your hands after each wide note, alternating left and right taps normally. Right hand crosses over first and each \"crosshand section\" has 4 notes.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section6_2.png",
+                        "title": "Splash Cheese",
+                        "description": "For this strategy you trill in the center of the screen, abusing the wider hitboxes notes have. The judgement line on the botton of the screen is slit into 12 sections, and each note is one section wider on each side than what it looks like. Only the two sections closest to the center are within the hitboxes, making it quite small. You can ease this issue by having one hand tap higher up and one tapping lower down on the screen.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section6_2.png",
+                        "title": "Multifinger",
+                        "description": "For this strategy you use 4k, hitting each wide note with your middle fingers. This strategy is identical to the mirrored version of the 4k strategy for \"1st Chorus Trill\".",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ]
+            }
+        }
+    }
+}
