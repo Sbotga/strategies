@@ -2,8 +2,8 @@
     "master": {
         "strats": [
             {
-                "path": "master/main.PNG",
-                "title": null,
+                "path": "master/main.png",
+                "title": null,  
                 "description": null,
                 "author": "TheLetterP",
                 "fingers": 2
@@ -127,18 +127,18 @@
                         "path": "master/sections/section6_2.png",
                         "title": "Crosshand",
                         "description": "For this strategy you cross your hands after each wide note, alternating left and right taps normally. Right hand crosses over first and each \"crosshand section\" has 4 notes.",
-                        "author": "TheLetterP",
+                        "author": "TheLetterP", 
                         "fingers": 2
                     },
                     {
-                        "path": "master/sections/section6_2.png",
+                        "path": "master/sections/section6_3.png",
                         "title": "Splash Cheese",
                         "description": "For this strategy you trill in the center of the screen, abusing the wider hitboxes notes have. The judgement line on the botton of the screen is slit into 12 sections, and each note is one section wider on each side than what it looks like. Only the two sections closest to the center are within the hitboxes, making it quite small. You can ease this issue by having one hand tap higher up and one tapping lower down on the screen.",
                         "author": "TheLetterP",
                         "fingers": 2
                     },
                     {
-                        "path": "master/sections/section6_2.png",
+                        "path": "master/sections/section6_4.png",
                         "title": "Multifinger",
                         "description": "For this strategy you use 4k, hitting each wide note with your middle fingers. This strategy is identical to the mirrored version of the 4k strategy for \"1st Chorus Trill\".",
                         "author": "TheLetterP",

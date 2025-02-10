@@ -15,17 +15,17 @@
                 "end_measure": 103,
                 "start_combo": 1856,
                 "end_combo": 1964,
-                "raw": "master/sections/section1_raw.png",
+                "raw": "append/sections/section1_raw.png",
                 "strategies": [
                     {
-                        "path": "master/sections/section1_1.png",
+                        "path": "append/sections/section1_1.png",
                         "title": "Default",
                         "description": null,
                         "author": "Ghost",
                         "fingers": 5
                     },
                     {
-                        "path": "master/sections/section1_2.png",
+                        "path": "append/sections/section1_2.png",
                         "title": "Right Hand 3k Cheese",
                         "description": null,
                         "author": "Ghost",
