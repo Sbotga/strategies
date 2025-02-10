@@ -143,6 +143,13 @@
                         "description": "For this strategy you use 4k, hitting each wide note with your middle fingers. This strategy is identical to the mirrored version of the 4k strategy for \"1st Chorus Trill\".",
                         "author": "TheLetterP",
                         "fingers": 4
+                    },
+                    {
+                        "path": "master/sections/section6_5.png",
+                        "title": "Right Hand Multifinger",
+                        "description": "For this strategy you use your right hand to hit the notes between the wide notes.",
+                        "author": "TheLetterP",
+                        "fingers": 3
                     }
                 ]
             }
