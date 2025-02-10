@@ -32,7 +32,8 @@
                         "author": "TheLetterP",
                         "fingers": 4
                     }
-                ],
+                ]
+            },
             "Ending trill": {
                 "start_measure": 74,
                 "end_measure": 74,
@@ -65,4 +66,3 @@
             }
         }
     }
-}
