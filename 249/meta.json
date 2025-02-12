@@ -2,22 +2,22 @@
     "master": {
         "strats": [
             {
-                "path": "master/main2k.png",
-                "title": "2k",
-                "description": null,
-                "author": "kurokazereal",
-                "fingers": 2
-            },
-            {
                 "path": "master/main4k.png",
-                "title": "4k",
+                "title": null,
                 "description": null,
                 "author": "dumbarc",
                 "fingers": 4
+            },
+            {
+                "path": "master/main2k.png",
+                "title": null,
+                "description": null,
+                "author": "kurokazereal",
+                "fingers": 2
             }
         ],
         "sections": {
-            "Crosshand holds": {
+            "Crosshand Holds": {
                 "start_measure": 47,
                 "end_measure": 63,
                 "start_combo": 937,
