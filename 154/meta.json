@@ -1,0 +1,38 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": null,
+                "author": "dumbarc",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+            "Moving Trill": {
+                "start_measure": 78,
+                "end_measure": 78,
+                "start_combo": 927,
+                "end_combo": 941,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Default",
+                        "description": "For this strategy you alt. Focus on the gold notes, which you only hit with your RIGHT hand.",
+                        "author": "dumbarc",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Right Hand alt",
+                        "description": "For this strategy you alt with 2 fingers on your right hand. For the notes you hit with your left hand, you could of course use 2 fingers instead of jacking if it makes it more comfortable.",
+                        "author": "dumbarc",
+                        "fingers": 3
+                    }
+                ]
+            }
+        }
+    }
+}
