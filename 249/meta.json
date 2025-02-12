@@ -2,13 +2,127 @@
     "master": {
         "strats": [
             {
-                "path": "master/main.png",
-                "title": null,
+                "path": "master/main2k.png",
+                "title": "2k",
+                "description": null,
+                "author": "kurokazereal",
+                "fingers": 2
+            },
+            {
+                "path": "master/main4k.png",
+                "title": "4k",
                 "description": null,
                 "author": "dumbarc",
                 "fingers": 4
             }
         ],
-        "sections": {}
+        "sections": {
+            "Crosshand holds": {
+                "start_measure": 47,
+                "end_measure": 63,
+                "start_combo": 937,
+                "end_combo": 1327,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Crosshand",
+                        "description": "For this strategy you cross your hands.",
+                        "author": "kurokazereal",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Cheese",
+                        "description": "For this strategy you trade which hand handles the hold.",
+                        "author": "dumbarc",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Trill With Holds": {
+                "start_measure": 60,
+                "end_measure": 63,
+                "start_combo": 1221,
+                "end_combo": 1312,
+                "raw": "master/sections/section2_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section2_2.png",
+                        "title": "Jack 1",
+                        "description": "For this strategy you start the jack when the gold note comes.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_3.png",
+                        "title": "Jack 2",
+                        "description": "For this strategy you end the jack when the gold note comes.",
+                        "author": "dumbarc",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_1.png",
+                        "title": "Jack 3",
+                        "description": null,
+                        "author": "kurokazereal",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Outro 1": {
+                "start_measure": 66,
+                "end_measure": 69,
+                "start_combo": 1378,
+                "end_combo": 1439,
+                "raw": "master/sections/section3_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section3_1.png",
+                        "title": "Triple Jacks",
+                        "description": "For this strategy you triple jack on the edges of the screen and double jack in the middle.",
+                        "author": "kurokazereal",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section3_2.png",
+                        "title": "Jack",
+                        "description": "For this strategy you alt on the edges of the screen and double jack in the middle.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section3_3.png",
+                        "title": "Multifinger",
+                        "description": "For this strategy you alt on the edges of the screen and 4k in the middle.",
+                        "author": "dumbarc",
+                        "fingers": 4
+                    }
+                ]
+            },
+            "Outro 2": {
+                "start_measure": 70,
+                "end_measure": 71,
+                "start_combo": 1449,
+                "end_combo": 1485,
+                "raw": "master/sections/section4_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section4_1.png",
+                        "title": "Jack",
+                        "description": "For this strategy you jack on the edges.",
+                        "author": "kurokazereal",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section4_2.png",
+                        "title": "Multifinger",
+                        "description": "For this strategy you 4k on the edges.",
+                        "author": "dumbarc",
+                        "fingers": 4
+                    }
+                ]
+            }
+        }
     }
 }
