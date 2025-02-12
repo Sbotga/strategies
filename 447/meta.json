@@ -1,0 +1,14 @@
+{
+    "append": {
+        "strats": [
+            {
+                "path": "append/main.png",
+                "title": null,
+                "description": "Make sure to not let go of the hold notes too early for second half beacause its actually very easy to drop the trace endings (you'll get used to it after a while)",
+                "author": "Tpulse",
+                "fingers": 6
+            }
+        ],
+        "sections": {}
+    }
+}
