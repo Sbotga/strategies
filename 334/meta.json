@@ -9,6 +9,30 @@
                 "fingers": 2
             }
         ],
-        "sections": {}
+        "sections": {
+            "Swing With Wide Notes": {
+                "start_measure": 59,
+                "end_measure": 62,
+                "start_combo": 1015,
+                "end_combo": 1045,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Default",
+                        "description": "This is the strategy as shown in the main strategy image. Make sure to remember to double tap with the left hand near the end of the section!",
+                        "author": "walkingsophie",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Jacks",
+                        "description": "Jacking the last part of the section may make the double note near the end easier to hit.",
+                        "author": "walkingsophie",
+                        "fingers": 2
+                    }
+                ]
+            }
+        }
     }
 }
