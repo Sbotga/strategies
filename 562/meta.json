@@ -1,0 +1,14 @@
+{
+    "append": {
+        "strats": [
+            {
+                "path": "append/main.png",
+                "title": null,
+                "description": "Mostly 4k, ending is 5k, only one note is hit with the sixth finger.",
+                "author": "⋆｡ﾟᴇɴᴀɴᴀɴ ⋆｡ ﾟ☾ ﾟ｡⋆",
+                "fingers": 6
+            }
+        ],
+        "sections": {}
+    }
+}
