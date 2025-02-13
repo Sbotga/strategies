@@ -1,0 +1,31 @@
+{
+    "expert": {
+        "strats": [
+            {
+                "path": "expert/main.jpg",
+                "title": null,
+                "description": null,
+                "author": "Senna",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+            "Fast Trills": {
+                "start_measure": 84,
+                "end_measure": 86,
+                "start_combo": 980,
+                "end_combo": 1008,
+                "raw": "expert/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Default (Tips)",
+                        "description": "With this section, a useful method for accuracy is to look at the golden notes. After the 3rd golden note, there is an 8th note gap indicated in green, and the golden notes switch from the right hand to the left hand.",
+                        "author": "walkingsophie",
+                        "fingers": 2
+                    }
+                ]
+            }
+        }
+    }
+}
