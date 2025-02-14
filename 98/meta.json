@@ -1,0 +1,15 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": "Almost every minijack can be replaced by alting. Alts in this song tend to have less consistent accuracy but saves stamina so mix and match according to preference.",
+                "author": "fresco",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+        }
+    }
+}
