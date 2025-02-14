@@ -1,0 +1,68 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": null,
+                "author": "TheLetterP",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+            "Gold Trace Note Swipes": {
+                "start_measure": 1,
+                "end_measure": 1,
+                "start_combo": 1,
+                "end_combo": 1,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Default",
+                        "description": "Somebody forgot to change the description...",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Multifinger Cheese",
+                        "description": "Somebody forgot to change the description...",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Green Trace Note Swipes": {
+                "start_measure": 1,
+                "end_measure": 1,
+                "start_combo": 1,
+                "end_combo": 1,
+                "raw": "master/sections/section2_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section2_1.png",
+                        "title": "Default",
+                        "description": "For this strategy you swipe the trace notes with one finger.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_2.png",
+                        "title": "Metronome Multifinger Cheese",
+                        "description": "Somebody forgot to change the description...",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_2.png",
+                        "title": "Multifinger Cheese",
+                        "description": "Somebody forgot to change the description...",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            }
+        }
+    }
+}

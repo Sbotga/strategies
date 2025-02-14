@@ -1,0 +1,38 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": null,
+                "author": "infamoose",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+            "Overlap Hold": {
+                "start_measure": 60,
+                "end_measure": 64,
+                "start_combo": 924,
+                "end_combo": 985,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Crosshand",
+                        "description": null,
+                        "author": "infamoose",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "No Crosshand",
+                        "description": null,
+                        "author": "infamoose",
+                        "fingers": 2
+                    }
+                ]
+            }
+        }
+    }
+}
