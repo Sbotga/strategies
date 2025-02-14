@@ -11,33 +11,33 @@
         ],
         "sections": {
             "Gold Trace Note Swipes": {
-                "start_measure": 1,
-                "end_measure": 1,
-                "start_combo": 1,
-                "end_combo": 1,
+                "start_measure": 54,
+                "end_measure": 55,
+                "start_combo": 694,
+                "end_combo": 712,
                 "raw": "master/sections/section1_raw.png",
                 "strategies": [
                     {
                         "path": "master/sections/section1_1.png",
                         "title": "Default",
-                        "description": "Somebody forgot to change the description...",
+                        "description": "For this strategy you swipe the trace notes with one finger.",
                         "author": "TheLetterP",
                         "fingers": 2
                     },
                     {
                         "path": "master/sections/section1_2.png",
                         "title": "Multifinger Cheese",
-                        "description": "Somebody forgot to change the description...",
+                        "description": "For this strategy you flick with all four fingers. This makes tapping the normal note that comes after on the left a bit easier, as less movement is required.",
                         "author": "TheLetterP",
-                        "fingers": 2
+                        "fingers": 4
                     }
                 ]
             },
             "Green Trace Note Swipes": {
-                "start_measure": 1,
-                "end_measure": 1,
-                "start_combo": 1,
-                "end_combo": 1,
+                "start_measure": 58,
+                "end_measure": 66,
+                "start_combo": 744,
+                "end_combo": 885,
                 "raw": "master/sections/section2_raw.png",
                 "strategies": [
                     {
@@ -50,16 +50,16 @@
                     {
                         "path": "master/sections/section2_2.png",
                         "title": "Metronome Multifinger Cheese",
-                        "description": "Somebody forgot to change the description...",
+                        "description": "For this strategy you tap with all four fingers for every beat, flicking upwards with all four when needed. The additional taps do not get registered and the holds do not give misses.",
                         "author": "TheLetterP",
-                        "fingers": 2
+                        "fingers": 4
                     },
                     {
-                        "path": "master/sections/section2_2.png",
+                        "path": "master/sections/section2_3.png",
                         "title": "Multifinger Cheese",
-                        "description": "Somebody forgot to change the description...",
+                        "description": "For this strategy you play similarly to the way you would when playing with two fingers, except you tap with both index and middle finger at the same time. By using four fingers, the trace notes become a lot more lenient. For the last of the four sections, treat the trace notes as a normal tap note (no need to hold). The additional taps do not get registered.",
                         "author": "TheLetterP",
-                        "fingers": 2
+                        "fingers": 4
                     }
                 ]
             }
