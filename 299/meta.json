@@ -1,0 +1,112 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": null,
+                "author": "TheLetterP",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+            "Wide Notes Swing 1": {
+                "start_measure": 72,
+                "end_measure": 75,
+                "start_combo": 1033,
+                "end_combo": 1073,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Alt",
+                        "description": "For this strategy you alternate between tapping right -> left then left -> right for each regular note and flick pair.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Jack",
+                        "description": "For this strategy you swap to jacking the regular note and flick pair around half way through.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_3.png",
+                        "title": "Anchor",
+                        "description": "For this strategy you \"anchor\" a hand to one side around half way through, whith the other hand doing all the flicks.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Wide Notes Swing 2": {
+                "start_measure": 76,
+                "end_measure": 79,
+                "start_combo": 1073,
+                "end_combo": 1113,
+                "raw": "master/sections/section2_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section2_1.png",
+                        "title": "Anchor",
+                        "description": "For this strategy you \"anchor\" one hand to the side, where it does all the flicks, and the other hand hits all the regular notes. You can also anchor your flick hand in the center of the screen, turning it into an overhand, if that's simpler to execute for you.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_2.png",
+                        "title": "Overlap",
+                        "description": "For this strategy you dedicate one hand to flicks and another to regular notes, only both hands hit around the same area of the screen.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_3.png",
+                        "title": "Jack",
+                        "description": "For this strategy you jack each note and flick pair. Easy to understand, harder to execute.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_4.png",
+                        "title": "Left Side Right Side",
+                        "description": "For this strategy you always keep your hands one the left/right side of the screen. When one hand taps a regular note, the other free hand does the flick. Physically easy to execute, but hard to wrap your head around.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_5.png",
+                        "title": "Multifinger",
+                        "description": "This strategy is identical to \"jack\", only here you use 4k instead of jacking. Might be a bit easier to execute compared to jacking. ",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ]
+            },
+            "Ending Bursts": {
+                "start_measure": 104,
+                "end_measure": 104,
+                "start_combo": 1483,
+                "end_combo": 1498,
+                "raw": "master/sections/section3_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section3_1.png",
+                        "title": "Default",
+                        "description": null,
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section3_2.png",
+                        "title": "Multifinger",
+                        "description": "For this strategy you use your left middle finger to remove the need for your left index finger to move during the last burst.",
+                        "author": "TheLetterP",
+                        "fingers": 3
+                    }
+                ]
+            }
+        }
+    }
+}
