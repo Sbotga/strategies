@@ -1,0 +1,137 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": "The very last hold uses six fingers, but the rest of the chart strategy only uses two.",
+                "author": "TheLetterP",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+            "Uncomfortable Doubles": {
+                "start_measure": [8,24],
+                "end_measure": [8,25],
+                "start_combo": [190,552],
+                "end_combo": [211,573],
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Default",
+                        "description": "For this strategy you hit the pattern with two fingers. Hitting closer to the edge of the second regular note after the hold might help.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Multifinger 1",
+                        "description": "For this strategy you hit the notes right after the hold all with one hand, using middle finger where necessary.",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    },
+                    {
+                        "path": "master/sections/section1_3.png",
+                        "title": "Multifinger 2",
+                        "description": "For this strategy you split the screen into four lanes, where one finger hits everything in it's lane, just like classic 4k gameplay.",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ]
+            },
+            "Polyrhythm": {
+                "start_measure": 33,
+                "end_measure": 39,
+                "start_combo": 744,
+                "end_combo": 863,
+                "raw": "master/sections/section2_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section2_1.png",
+                        "title": "Default",
+                        "description": "For this strategy you do the pattern the intended way. Instead of thinking of this section as polyrhythm, you can alternatively think of it as a double (simultaneous taps) followed by a triplet. This pattern of double -> triplet -> double -> triplet stays true throughout the entire section, outside of the first finger swap between segment 1 and 2.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Square Zigzag Holds": {
+                "start_measure": [64,68],
+                "end_measure": [64,68],
+                "start_combo": [1259,1360],
+                "end_combo": [1271,1372],
+                "raw": "master/sections/section3_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section3_1.png",
+                        "title": "Crosshand",
+                        "description": "For this strategy you crosshand so that one hand does the holds and the other hits the notes.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section3_2.png",
+                        "title": "No Crosshand",
+                        "description": "For this strategy you treat the hold as many smaller holds, where you start holding from the regular notes.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Ending Holds": {
+                "start_measure": 70,
+                "end_measure": 75,
+                "start_combo": 1403,
+                "end_combo": 1537,
+                "raw": "master/sections/section4_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section4_1.png",
+                        "title": "Crosshand",
+                        "description": "For this strategy you crosshand so that one hand does the holds and the other hits the notes.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section4_2.png",
+                        "title": "No Crosshand",
+                        "description": "For this strategy you swap which hand takes care of the hold in order to avoid crosshanding.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Last Two Holds": {
+                "start_measure": 76,
+                "end_measure": 79,
+                "start_combo": 1537,
+                "end_combo": 1589,
+                "raw": "master/sections/section5_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section5_1.png",
+                        "title": "Multifinger Cheese",
+                        "description": "By using six fingers to cover the entire screen, both the holds will be properly registered.",
+                        "author": "TheLetterP",
+                        "fingers": 6
+                    },
+                    {
+                        "path": "master/sections/section5_2.png",
+                        "title": "Crosshand",
+                        "description": "You can alternatively swap fingers in the beginning so that right hand hits the thin hold instead.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section5_3.png",
+                        "title": "No Crosshand",
+                        "description": null,
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            }
+        }
+    }
+}
