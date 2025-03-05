@@ -1,0 +1,38 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": null,
+                "author": "dumbarc",
+                "fingers": 5
+            }
+        ],
+        "sections": {
+            "Section 1": {
+                "start_measure": 117,
+                "end_measure": 121,
+                "start_combo": 1579,
+                "end_combo": 1646,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Default",
+                        "description": null,
+                        "author": "dumbarc",
+                        "fingers": 4
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Crosshand Alt",
+                        "description": "For this strategy you crosshand alt with your right finger hitting the notes on the outer sides and your left hitting the notes in the middle until the very last trill.",
+                        "author": "dumbarc",
+                        "fingers": 2
+                    }
+                ]
+            }
+        }
+    }
+}
