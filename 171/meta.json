@@ -1,0 +1,15 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": null,
+                "author": "fresco",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+        }
+    }
+}
