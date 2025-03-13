@@ -1,0 +1,61 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": null,
+                "author": "TheLetterP",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+            "Curved Holds": {
+                "start_measure": 2,
+                "end_measure": 102,
+                "start_combo": 27,
+                "end_combo": 1464,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Default",
+                        "description": null,
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Three finger Cheese",
+                        "description": null,
+                        "author": "TheLetterP",
+                        "fingers": 6
+                    }
+                ]
+            },
+            "Zig-zag Holds": {
+                "start_measure": 14,
+                "end_measure": 14,
+                "start_combo": 218,
+                "end_combo": 240,
+                "raw": "master/sections/section2_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section2_1.png",
+                        "title": "Default",
+                        "description": null,
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_2.png",
+                        "title": "Multifinger Cheese",
+                        "description": null,
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ]
+            }
+        }
+    }
+}
