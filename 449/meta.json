@@ -1,0 +1,14 @@
+{
+    "append": {
+        "strats": [
+            {
+                "path": "append/main.png",
+                "title": null,
+                "description": "Note that the second half is much harder than the first half. Many easy sections follow what I think looks natural to do but ofc, at this level of play, you probably won’t be looking at those easy sections anyways.",
+                "author": "Tpulse",
+                "fingers": 7
+            }
+        ],
+        "sections": {}
+    }
+}
