@@ -1,0 +1,68 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": null,
+                "author": "tairim",
+                "fingers": 2
+            }
+        ],
+        "sections": {
+            "Beginning Holds": {
+                "start_measure": 5,
+                "end_measure": 5,
+                "start_combo": 80,
+                "end_combo": 94,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "Default",
+                        "description": "You hold the notes the intended way.",
+                        "author": "tairim",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Doing Nothing Cheese",
+                        "description": "You can do this section by \"staying\" in the middle. For some reason, you don't lose combo if you do so.",
+                        "author": "tairim",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Middle Trills": {
+                "start_measure": 34,
+                "end_measure": 40,
+                "start_combo": 541,
+                "end_combo": 654,
+                "raw": "master/sections/section2_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section2_1.png",
+                        "title": "Default",
+                        "description": "You do the trills the intended way.",
+                        "author": "tairim",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_2.png",
+                        "title": "Flick & Tap",
+                        "description": "You do the trills the intended way except starting hand flicks all its notes, even taps.",
+                        "author": "tairim",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section2_3.png",
+                        "title": "All Flick",
+                        "description": "You do the trills by flicking all the notes.",
+                        "author": "tairim",
+                        "fingers": 2
+                    }
+                ]
+            }
+        }
+    }
+}
