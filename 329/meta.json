@@ -1,0 +1,114 @@
+{
+    "master": {
+        "strats": [
+            {
+                "path": "master/main.png",
+                "title": null,
+                "description": null,
+                "author": "Fewcher",
+                "fingers": 4
+            }
+        ],
+        "sections": {
+            "Trill With Some Wide Gold Notes": {
+                "start_measure": 40,
+                "end_measure": 41,
+                "start_combo": 602,
+                "end_combo": 620,
+                "raw": "master/sections/section1_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section1_1.png",
+                        "title": "One hand alt",
+                        "description": "For this strategy you alt the thinner notes with one hand.",
+                        "author": "Fewcher",
+                        "fingers": 4
+                    },
+                    {
+                        "path": "master/sections/section1_2.png",
+                        "title": "Overlapping alt",
+                        "description": "For this strategy you alternate between left and right, starting with left and overlapping your hands when necessary.",
+                        "author": "TheLetterP",
+                        "fingers": 2
+                    }
+                ]
+            },
+            "Dense Notes With Flicks On The Right": {
+                "start_measure": 43,
+                "end_measure": 44,
+                "start_combo": 690,
+                "end_combo": 723,
+                "raw": "master/sections/section2_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section2_1.png",
+                        "title": "Overhand",
+                        "description": "For this strategy you overhand with left hand and hit the notes in the middle with right hand.",
+                        "author": "Fewcher",
+                        "fingers": 4
+                    },
+                    {
+                        "path": "master/sections/section2_2.png",
+                        "title": "Multifinger",
+                        "description": "For this strategy you place your fingers at the intuitive position for 4k and hit notes accordingly.",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ]
+            },
+            "Jump-Stairs With Holds": {
+                "start_measure": 45,
+                "end_measure": 47,
+                "start_combo": 723,
+                "end_combo": 788,
+                "raw": "master/sections/section3_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section3_1.png",
+                        "title": "Fast taps",
+                        "description": "For this strategy you use two fingers to quickly tap the hold notes. It's important to release the holds the second you tap them, and this can be easier to do with only two fingers.",
+                        "author": "Fewcher",
+                        "fingers": 2
+                    },
+                    {
+                        "path": "master/sections/section3_2.png",
+                        "title": "Multifinger",
+                        "description": "For this strategy you place your fingers at the intuitive position for 4k and hit notes accordingly. It's important to release the holds the second you tap them.",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    },
+                    {
+                        "path": "master/sections/section3_3.png",
+                        "title": "Three fingers",
+                        "description": "For this strategy you use three fingers on right hand for the first holds. It's important to release the holds the second you tap them, and using three fingers on one hand could make this easier. As gold notes have a more lenient Perfect judgement, the strategy is only used for the first Jump-Stairs.",
+                        "author": "TheLetterP",
+                        "fingers": 5
+                    }
+                ]
+            },
+            "Jumptrill & Wide Notes Trill": {
+                "start_measure": 95,
+                "end_measure": 99,
+                "start_combo": 1601,
+                "end_combo": 1657,
+                "raw": "master/sections/section4_raw.png",
+                "strategies": [
+                    {
+                        "path": "master/sections/section4_1.png",
+                        "title": "Overhand alt",
+                        "description": "For this strategy you alternate tapping with left and right hand every beat, overhanding where necessary.",
+                        "author": "Fewcher",
+                        "fingers": 4
+                    },
+                    {
+                        "path": "master/sections/section4_2.png",
+                        "title": "One hand alt",
+                        "description": "For this strategy you alt with one hand and tap with the other, swapping where necessary.",
+                        "author": "TheLetterP",
+                        "fingers": 4
+                    }
+                ]
+            }
+        }
+    }
+}
